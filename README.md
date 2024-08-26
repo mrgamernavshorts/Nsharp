@@ -18,20 +18,20 @@ https://github.com/mrgamernavshorts/nav--
 
 update:v1.1 released!what is new?:
 
-      1.now you can write the code like this-
+1.now you can write the code like this-
       
-        write:hi
+      write:hi
         
-      instead of-
+instead of-
       
-        write:
+       write:
         
-        hi
+      hi
         
-      2.now you can use 2 lines of the text and both functions instead of only one at time.ex:
+2.now you can use 2 lines of the text and both functions instead of only one at time.ex:
       
-        write:hi
+      write:hi
         
-        createvar:hello
+      createvar:hello
 
 hope you like it.👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍

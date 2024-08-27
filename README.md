@@ -17,6 +17,7 @@ update:v1.2 released!what is new?:
 new functions added!
 
 these are the new functions:
+
       printvar:
       add:num1:
       add:num2:
@@ -31,17 +32,26 @@ these are the new functions:
       div:num2:
       divrun:
       createvar:input:
+      
 how do they work?
+
       printvar:
+      
 with this function,now you don't need to print the variable as you had created it.
+
       add:num1:
 enter the first number you want to add
+
       add:num2:
+      
 enter the second number you want to add
+
       addrun:
+      
 prints the output of the addition between num1 and num2
 
 these also run similarly:
+
       sub:num1:
       sub:num2:
       subrun:
@@ -53,7 +63,9 @@ these also run similarly:
       divrun:
 
 this function stores the variable's value through input which is runned when the program is running(in N# compiler):
+
      createvar:input:
+     
 update:v1.1 released!what is new?:
 
 1.now you can write the code like this-

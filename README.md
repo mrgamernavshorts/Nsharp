@@ -35,21 +35,22 @@ these are the new functions:
       
 how do they work?
 
-      printvar:
-      
 with this function,now you don't need to print the variable as you had created it.
 
-      add:num1:
-enter the first number you want to add
+      printvar:
 
-      add:num2:
+enter the first number you want to add
+      
+      add:num1:
       
 enter the second number you want to add
 
-      addrun:
+      add:num2:
       
 prints the output of the addition between num1 and num2
 
+      addrun:
+      
 these also run similarly:
 
       sub:num1:

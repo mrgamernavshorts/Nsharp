@@ -1,2 +1,17 @@
-write:navu
-createvar:is good
+write:hello
+createvar:hehe
+printvar:
+add:num1:2
+add:num2:2
+addrun:
+sub:num1:5
+sub:num2:2
+subrun:
+multi:num1:2
+multi:num2:2
+multirun:
+div:num1:2
+div:num2:2
+divrun:
+createvar:input:
+printvar:

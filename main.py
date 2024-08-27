@@ -17,7 +17,7 @@ for line in code:
         print(f'variable stored as {var}')
     elif line.startswith('printvar:'):
         print(var)
-    elif line.startswith('add:num1'):
+    elif line.startswith('add:num1:'):
         num1 = int(line[9:])
     elif line.startswith('add:num2:'):
         num2 = int(line[9:])
@@ -27,7 +27,7 @@ for line in code:
             print(addans)
         else:
             print('num1 and num2 not defined')
-    elif line.startswith('sub:num1'):
+    elif line.startswith('sub:num1:'):
         num1 = int(line[9:])
     elif line.startswith('sub:num2:'):
         num2 = int(line[9:])
@@ -37,7 +37,7 @@ for line in code:
             print(subans)
         else:
             print('num1 and num2 not defined')
-    elif line.startswith('div:num1'):
+    elif line.startswith('div:num1:'):
         num1 = int(line[9:])
     elif line.startswith('div:num2:'):
         num2 = int(line[9:])
@@ -47,7 +47,7 @@ for line in code:
             print(divans)
         else:
             print('num1 and num2 not defined')
-    elif line.startswith('multi:num1'):
+    elif line.startswith('multi:num1:'):
         num1 = int(line[11:])
     elif line.startswith('multi:num2:'):
         num2 = int(line[11:])

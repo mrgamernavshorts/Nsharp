@@ -17,23 +17,24 @@ update:v1.2 released!what is new?:
 new functions added!
 
 these are the new functions:
+
      write:hello
-      createvar:hehe
-      printvar:
-      add:num1:
-      add:num2:
-      addrun:
-      sub:num1:
-      sub:num2:
-      subrun:
-      multi:num1:
-      multi:num2:
-      multirun:
-      div:num1:
-      div:num2:
-      divrun:
-      createvar:input:
-      printvar:
+     createvar:hehe
+     printvar:
+     add:num1:
+     add:num2:
+     addrun:
+     sub:num1:
+     sub:num2:
+     subrun:
+     multi:num1:
+     multi:num2:
+     multirun:
+     div:num1:
+     div:num2:
+     divrun:
+     createvar:input:
+     printvar:
       
 update:v1.1 released!what is new?:
 

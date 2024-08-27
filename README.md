@@ -12,10 +12,29 @@ you just need to write the code in the txt file and save.
 
 and also repeat the steps that were written above.
 
-for documentation,check the readme file of this repository:
+update:v1.2 released!what is new?:
 
-https://github.com/mrgamernavshorts/nav--
+new functions added!
 
+these are the new functions:
+     write:hello
+      createvar:hehe
+      printvar:
+      add:num1:
+      add:num2:
+      addrun:
+      sub:num1:
+      sub:num2:
+      subrun:
+      multi:num1:
+      multi:num2:
+      multirun:
+      div:num1:
+      div:num2:
+      divrun:
+      createvar:input:
+      printvar:
+      
 update:v1.1 released!what is new?:
 
 1.now you can write the code like this-

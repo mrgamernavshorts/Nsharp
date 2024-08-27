@@ -66,7 +66,8 @@ these also run similarly:
 this function stores the variable's value through input which is runned when the program is running(in N# compiler):
 
      createvar:input:
-     
+
+------------------------------------------------------------------------------------------------------------------------------------------
 update:v1.1 released!what is new?:
 
 1.now you can write the code like this-

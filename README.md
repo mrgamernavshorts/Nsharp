@@ -18,8 +18,6 @@ new functions added!
 
 these are the new functions:
 
-     write:hello
-     createvar:hehe
      printvar:
      add:num1:
      add:num2:

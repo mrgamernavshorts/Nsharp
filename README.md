@@ -17,7 +17,6 @@ update:v1.2 released!what is new?:
 new functions added!
 
 these are the new functions:
-
      printvar:
      add:num1:
      add:num2:

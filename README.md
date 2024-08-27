@@ -17,40 +17,40 @@ update:v1.2 released!what is new?:
 new functions added!
 
 these are the new functions:
-     printvar:
-     add:num1:
-     add:num2:
-     addrun:
-     sub:num1:
-     sub:num2:
-     subrun:
-     multi:num1:
-     multi:num2:
-     multirun:
-     div:num1:
-     div:num2:
-     divrun:
-     createvar:input:
+      printvar:
+      add:num1:
+      add:num2:
+      addrun:
+      sub:num1:
+      sub:num2:
+      subrun:
+      multi:num1:
+      multi:num2:
+      multirun:
+      div:num1:
+      div:num2:
+      divrun:
+      createvar:input:
 how do they work?
-     printvar:
+      printvar:
 with this function,now you don't need to print the variable as you had created it.
-     add:num1:
+      add:num1:
 enter the first number you want to add
-     add:num2:
+      add:num2:
 enter the second number you want to add
-     addrun:
+      addrun:
 prints the output of the addition between num1 and num2
 
 these also run similarly:
-     sub:num1:
-     sub:num2:
-     subrun:
-     multi:num1:
-     multi:num2:
-     multirun:
-     div:num1:
-     div:num2:
-     divrun:
+      sub:num1:
+      sub:num2:
+      subrun:
+      multi:num1:
+      multi:num2:
+      multirun:
+      div:num1:
+      div:num2:
+      divrun:
 
 this function stores the variable's value through input which is runned when the program is running(in N# compiler):
      createvar:input:

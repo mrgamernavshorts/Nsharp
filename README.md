@@ -12,6 +12,34 @@ you just need to write the code in the txt file and save.
 
 and also repeat the steps that were written above.
 
+update:v1.3 released!what is new?:
+
+autorun feature added!
+
+type this in where it say "enter file name":
+
+       autorun
+       
+it will ask you the name of the file you want to autorun.type in the name you code file is.
+
+it will say "autorun eneabled" and a "autorun_init.txt" file will be created.
+
+delete the file if you want to disable autorun.
+
+now,everytime you will open the application,it will autorun the file you entered.
+
+also,there is a new function to find exponent:
+
+       expo:num1:
+       expo:num2:
+       exporun:
+
+now you can also type "input" in the num1 or num2 value like:
+
+       add:num1:input:
+       sub:num2:input:
+       etc.
+
 update:v1.2 released!what is new?:
 
 new functions added!

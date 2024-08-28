@@ -12,6 +12,8 @@ you just need to write the code in the txt file and save.
 
 and also repeat the steps that were written above.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 update:v1.3 released!what is new?:
 
 autorun feature added!
@@ -39,6 +41,8 @@ now you can also type "input" in the num1 or num2 value like:
        add:num1:input:
        sub:num2:input:
        etc.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 update:v1.2 released!what is new?:
 
